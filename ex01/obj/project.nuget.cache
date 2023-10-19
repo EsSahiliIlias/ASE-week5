@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkA0thZXph+EYBHxUIXYVshP6HATRb3ORurzQoEss4TuC/M8j2RYmMf1kP7DloW0MbIty4+WCIzNphM+Y0Xdbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilias\\Documents\\Howest\\jaar 3\\Semester 1\\Advanced Software engineer\\Labo\\ASE-week5\\ex01\\ex01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilias\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

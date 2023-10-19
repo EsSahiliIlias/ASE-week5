@@ -1,0 +1,17 @@
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\obj\Debug\net7.0\ex01.csproj.AssemblyReference.cache
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\obj\Debug\net7.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\obj\Debug\net7.0\ex01.AssemblyInfoInputs.cache
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\obj\Debug\net7.0\ex01.AssemblyInfo.cs
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\obj\Debug\net7.0\ex01.csproj.CoreCompileInputs.cache
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\bin\Debug\net7.0\ex01.exe
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\bin\Debug\net7.0\ex01.deps.json
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\bin\Debug\net7.0\ex01.runtimeconfig.json
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\bin\Debug\net7.0\ex01.dll
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\bin\Debug\net7.0\ex01.pdb
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\obj\Debug\net7.0\ex01.csproj.CopyComplete
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\obj\Debug\net7.0\ex01.dll
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\obj\Debug\net7.0\refint\ex01.dll
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\obj\Debug\net7.0\ex01.pdb
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\obj\Debug\net7.0\ex01.genruntimeconfig.cache
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex01\obj\Debug\net7.0\ref\ex01.dll
