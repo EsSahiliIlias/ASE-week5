@@ -1,0 +1,15 @@
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\obj\Debug\net7.0\ex05.csproj.AssemblyReference.cache
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\obj\Debug\net7.0\ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\obj\Debug\net7.0\ex05.AssemblyInfoInputs.cache
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\obj\Debug\net7.0\ex05.AssemblyInfo.cs
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\obj\Debug\net7.0\ex05.csproj.CoreCompileInputs.cache
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\bin\Debug\net7.0\ex05.exe
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\bin\Debug\net7.0\ex05.deps.json
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\bin\Debug\net7.0\ex05.runtimeconfig.json
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\bin\Debug\net7.0\ex05.dll
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\bin\Debug\net7.0\ex05.pdb
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\obj\Debug\net7.0\ex05.dll
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\obj\Debug\net7.0\refint\ex05.dll
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\obj\Debug\net7.0\ex05.pdb
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\obj\Debug\net7.0\ex05.genruntimeconfig.cache
+C:\Users\ilias\Documents\Howest\jaar 3\Semester 1\Advanced Software engineer\Labo\ASE-week5\ex05\obj\Debug\net7.0\ref\ex05.dll
